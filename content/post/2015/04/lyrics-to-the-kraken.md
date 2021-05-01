@@ -10,7 +10,7 @@ layout: post
 wpid: 33
 category:
     - lyrics
-tag: []
+tag: ['video', 'lyrics']
 post_format: []
 ---
 The Kraken’s a song that captures the essence who we are and why we do this. Written and arranged by Alan Coyne in 2014, it’s a favorite at. Hear it the following ways:
