@@ -6,7 +6,7 @@
   {{ content | safe }}
   <ul>
   {% for name, count in collections.allTags %}
-    <li><a href="/tag/{{ name | slug }}" class="jch-tag">{{ name | safe }} <strong>{{ count }}</strong></a></li>
+    <li><a href="/spot-to-11ty/tag/{{ name | slug }}" class="jch-tag">{{ name | safe }} <strong>{{ count }}</strong></a></li>
   {% endfor %}
   </ul>
 </main>
