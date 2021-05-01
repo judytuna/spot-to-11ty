@@ -2,6 +2,7 @@
 title: 'Hello world!'
 date: '2012-02-13T10:51:01+00:00'
 status: publish
+layout: layouts/post.njk
 permalink: /2012/02/hello-world-2
 author: judytuna
 excerpt: ''

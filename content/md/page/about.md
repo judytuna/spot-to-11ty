@@ -1,23 +1,44 @@
 ---
-title: "About The Tests"
+title: About
+date: '2012-02-13T11:18:23+00:00'
+status: publish
+permalink: /about
+author: judytuna
+excerpt: ''
+type: page
 layout: page
-excerpt: ""
-date: 2010-07-26 02:40:01
-modified: 2010-07-26 02:40:01
-permalink: about/index.html
-tags: []
-featured_img: 
-wpid: 1725
+id: 7
 ---
+Spot the Octopus is comprised of these ten troubadours:
+-------------------------------------------------------
 
-# About The Tests
+[Alan Coyne](http://www.awkwardface.com/performers.html)
 
-This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme. It is recommended that you test your theme with the Theme Unit Test before submitting your theme to the WordPress.org theme directory.
+[Angela Don](http://www.angeladon.com/)
 
-WordPress Theme Development Resources
--------------------------------------
+Bryce Harenburg
 
-1. See [the WordPress Theme Developer Handbook](https://developer.wordpress.org/themes/) for examples of best practices.
-2. See [the WordPress Code Reference](https://developer.wordpress.org/reference/) for more information about WordPress’ functions, classes, methods, and hooks.
-3. See [Theme Unit Test](https://codex.wordpress.org/Theme_Unit_Test) for a robust test suite for your Theme and get the latest version of the test data you see here.
-4. See [Releasing Your Theme](https://developer.wordpress.org/themes/release/) for a guide to submitting your Theme to the [Theme Directory](https://wordpress.org/themes/).
+Carolyn Thamkul
+
+Christopher Condap
+
+[Fritz Huie](http://fritzhuie.com)
+
+[Hannah Glass](http://www.yflband.com/)
+
+[Judy Tuan](https://judytuna.com)
+
+[Lisa Sindorf](http://lisasindorf.com)
+
+[Peterson Trethewey](http://2-complex.com)
+
+Past members include:
+---------------------
+
+Kristina Reinholds
+
+Elanor Schoomer
+
+George Fan
+
+Steven Williams
