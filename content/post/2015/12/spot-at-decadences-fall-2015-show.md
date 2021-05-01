@@ -10,7 +10,7 @@ layout: post
 wpid: 34
 category:
     - events
-tag:
+tags:
     - video
     - concert
 post_format: []

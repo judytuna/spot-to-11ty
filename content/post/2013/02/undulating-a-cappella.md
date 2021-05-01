@@ -10,7 +10,7 @@ layout: post
 wpid: 20
 category:
     - Uncategorized
-tag: ['concert']
+tags: ['concert']
 post_format: []
 ---
 Concert poster revealed! Created by our very own talented Kristina.

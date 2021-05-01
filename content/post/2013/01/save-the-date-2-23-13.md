@@ -10,7 +10,7 @@ layout: post
 wpid: 16
 category:
     - upcoming
-tag: ['concert']
+tags: ['concert']
 post_format: []
 ---
 We’re putting on a concert!

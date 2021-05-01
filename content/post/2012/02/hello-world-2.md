@@ -10,7 +10,7 @@ layout: post
 wpid: 6
 category:
     - Uncategorized
-tag: []
+tags: []
 post_format: []
 ---
 We’re back in business!
