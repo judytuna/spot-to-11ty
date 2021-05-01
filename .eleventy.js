@@ -67,7 +67,7 @@ module.exports = function(eleventyConfig) {
     pathPrefix: 'spot-to-11ty',
     dir: {
       input: "content",
-      output: "_dist"
+      output: "docs"
     }
   };
 };
