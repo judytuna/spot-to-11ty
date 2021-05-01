@@ -2,11 +2,12 @@
 title: 'Spot at DeCadence&#8217;s fall 2015 show'
 date: '2015-12-12T23:50:29+00:00'
 status: publish
-permalink: /2015/12/spot-at-decadences-fall-2015-show
+permalink: 2015/12/spot-at-decadences-fall-2015-show/index.html
 author: judytuna
 excerpt: ''
-type: post
-id: 34
+wptype: post
+layout: post
+wpid: 34
 category:
     - events
 tag:

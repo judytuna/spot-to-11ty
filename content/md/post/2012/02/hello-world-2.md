@@ -2,12 +2,12 @@
 title: 'Hello world!'
 date: '2012-02-13T10:51:01+00:00'
 status: publish
-layout: layouts/post.njk
-permalink: /2012/02/hello-world-2
+permalink: 2012/02/hello-world-2/index.html
 author: judytuna
 excerpt: ''
-type: post
-id: 6
+wptype: post
+layout: post
+wpid: 6
 category:
     - Uncategorized
 tag: []

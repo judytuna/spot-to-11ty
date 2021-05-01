@@ -5,5 +5,5 @@ pagination:
   data: collections
   size: 1
   alias: tag
-permalink: /tag/{{ tag | slug }}/
+permalink: tag/{{ tag | slug }}/
 ---

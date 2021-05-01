@@ -2,12 +2,12 @@
 title: About
 date: '2012-02-13T11:18:23+00:00'
 status: publish
-permalink: /about
+permalink: about/index.html
 author: judytuna
 excerpt: ''
-type: page
+wptype: page
 layout: page
-id: 7
+wpid: 7
 ---
 Spot the Octopus is comprised of these ten troubadours:
 -------------------------------------------------------

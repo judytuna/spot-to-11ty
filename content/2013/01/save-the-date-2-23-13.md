@@ -2,11 +2,12 @@
 title: 'Save the date: Spot sings Sat 2/23/13 in Berkeley!'
 date: '2013-01-09T11:08:06+00:00'
 status: publish
-permalink: /2013/01/save-the-date-2-23-13
+permalink: 2013/01/save-the-date-2-23-13/index.html
 author: judytuna
 excerpt: ''
-type: post
-id: 16
+wptype: post
+layout: post
+wpid: 16
 category:
     - upcoming
 tag: []

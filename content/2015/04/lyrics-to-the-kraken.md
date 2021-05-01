@@ -2,11 +2,12 @@
 title: 'Lyrics to The Kraken'
 date: '2015-04-14T03:46:16+00:00'
 status: publish
-permalink: /2015/04/lyrics-to-the-kraken
+permalink: 2015/04/lyrics-to-the-kraken/index.html
 author: judytuna
 excerpt: ''
-type: post
-id: 33
+wptype: post
+layout: post
+wpid: 33
 category:
     - lyrics
 tag: []

@@ -2,11 +2,12 @@
 title: 'Undulating a cappella!'
 date: '2013-02-01T15:53:34+00:00'
 status: publish
-permalink: /2013/02/undulating-a-cappella
+permalink: 2013/02/undulating-a-cappella/index.html
 author: judytuna
 excerpt: ''
-type: post
-id: 20
+wptype: post
+layout: post
+wpid: 20
 category:
     - Uncategorized
 tag: []
