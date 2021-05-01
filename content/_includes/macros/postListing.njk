@@ -2,11 +2,11 @@
 {% if post.data.permalink %}
 <li>
   {% if post.data.featured_img %}
-  <a href="{{ post.url | safe }}">
+  <a href="/spot-to-11ty{{ post.url | safe }}">
     <img src="{{ post.data.featured_img | safe }}">
   </a>
   {% endif %}
-  <h2><a href="{{ post.url | safe }}">{{ post.data.title | safe }}</a></h2>
+  <h2><a href="/spot-to-11ty{{ post.url | safe }}">{{ post.data.title | safe }}</a></h2>
   <p>{{ post.data.excerpt | safe }}</p>
   <p>
     <strong>Published: </strong>
